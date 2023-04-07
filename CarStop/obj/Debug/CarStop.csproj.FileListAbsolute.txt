@@ -1,0 +1,11 @@
+C:\Users\Максим\source\repos\CarStop\CarStop\bin\Debug\CarStop.exe.config
+C:\Users\Максим\source\repos\CarStop\CarStop\bin\Debug\CarStop.exe
+C:\Users\Максим\source\repos\CarStop\CarStop\bin\Debug\CarStop.pdb
+C:\Users\Максим\source\repos\CarStop\CarStop\obj\Debug\CarStop.csproj.AssemblyReference.cache
+C:\Users\Максим\source\repos\CarStop\CarStop\obj\Debug\CarStop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Максим\source\repos\CarStop\CarStop\obj\Debug\CarStop.Form1.resources
+C:\Users\Максим\source\repos\CarStop\CarStop\obj\Debug\CarStop.Properties.Resources.resources
+C:\Users\Максим\source\repos\CarStop\CarStop\obj\Debug\CarStop.csproj.GenerateResource.cache
+C:\Users\Максим\source\repos\CarStop\CarStop\obj\Debug\CarStop.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\CarStop\CarStop\obj\Debug\CarStop.exe
+C:\Users\Максим\source\repos\CarStop\CarStop\obj\Debug\CarStop.pdb
